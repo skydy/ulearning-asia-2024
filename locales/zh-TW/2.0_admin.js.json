@@ -4070,5 +4070,325 @@
   "event.startTImenotGreaterThanEndTime": {
     "message": "啟用開始時間不能大於活動結束時間",
     "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "多語言設置",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "網站名稱多語言設置", 
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "請輸入{lang}語言",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "默認語言的值不能為空",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.educationUniversity": {
+    "message": "成員申請",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.name": {
+    "message": "院校名",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.enName": {
+    "message": "英語院校名",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.region": {
+    "message": "國家/地區",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPerson": {
+    "message": "聯繫人",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPhone": {
+    "message": "聯繫電話",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.mail": {
+    "message": "郵箱",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.regiseterTime": {
+    "message": "申請時間",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detail": {
+    "message": "查看詳情",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.search": {
+    "message": "輸入院校名搜索",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detailTitle": {
+    "message": "成員申請信息詳情",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.back": {
+    "message": "< 返回",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logo": {
+    "message": "機構LOGO",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logoPreview": {
+    "message": "LOGO預覽",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.orgName": {
+    "message": "機構名稱",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.englishOrgName": {
+    "message": "英文機構名稱",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "創立年份",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "大學地址",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "聯繫人",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "大學網站",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "電話號碼",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.email": {
+    "message": "電子郵箱",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityIntro": {
+    "message": "大學簡介/學院簡介",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourceLibraryName": {
+    "message": "資源名稱",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sharePeple": {
+    "message": "創建人",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyPeple": {
+    "message": "複製人",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.nowLookFile": {
+    "message": "  ·當前查看文件夾",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.org": {
+    "message": "所屬機構",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.type": {
+    "message": "類型",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.size": {
+    "message": "大小",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.createTime": {
+    "message": "創建時間",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allType": {
+    "message": "文件夾",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status0": {
+    "message": "壓縮包",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status1": {
+    "message": "其他",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status2": {
+    "message": "HTML",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status3": {
+    "message": "虛仿資源",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status4": {
+    "message": "鏈接",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.warningTip": {
+    "message": "刪除後無法恢復，是否刪除",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sord": {
+    "message": "排序方式：",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.rz": {
+    "message": "操作日誌",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search": {
+    "message": "請輸入創建人或文件名篩選",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourseLib": {
+    "message": "資源庫",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "共享",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "上傳",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "全部類型",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "全部上傳狀態",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "複製和共享記錄",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "資源發佈記錄",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "其他設置",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "通過郵件",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "通過賬號",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "請輸入用戶郵箱，多個用戶使用逗號隔開",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "請從已有賬號選擇需要修改密碼的用戶",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "請輸入重置後默認密碼",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "請輸入用戶名稱或郵箱",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "從已有賬號選擇",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "重置後默認密碼",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "批量重置密碼",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "選擇用戶",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "已選中:{num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "請至少選擇一種方式設置需要修改密碼的用戶",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "修改成功{successCount}個,修改失敗{failCount}個",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "本頁全選",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "本頁清除",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "僅刪除資源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "刪除發佈到課程的資源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "刪除複製到資源庫的資源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "發佈/複製都刪除",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "選擇課程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "請選擇要把資源發佈到哪些課程：",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "全選",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "發佈成功",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "發佈失敗",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "還沒有課程，請先創建課程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "請先選擇課程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "刪除失敗",
+    "description": "2.0 admin.js"
   }
 }

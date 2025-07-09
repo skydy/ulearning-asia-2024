@@ -2515,6 +2515,10 @@
     "message": "Kata sandi harus 8-16 karakter dan menyertakan huruf dan angka (kata sandi peka huruf besar/kecil)",
     "description": "2.0 public.js"
   },
+  "loginTipsMsg5": {
+    "message": "Kata sandi masuk Anda belum diperbarui dalam <strong class='text-red'>{dayNum}</strong> hari!",
+    "description": "2.0 public.js"
+  },
   "someonesEportfolio": {
     "message": "Arsip akademik ",
     "description": "2.0 public.js"
@@ -2573,6 +2577,18 @@
   },
   "joinCourseFailure": {
     "message": "Gagal bergabung dengan kursus",
+    "description": "2.0 public.js"
+  },
+  "AiWorkbench": {
+    "message": "bangku kerja",
+    "description": "2.0 public.js"
+  },
+  "notOpen": {
+    "message": "tidak terbuka",
+    "description": "2.0 public.js"
+  },
+  "AIIframeLoading": {
+    "message": "Memuatkan, tolong tunggu...",
     "description": "2.0 public.js"
   }
 }

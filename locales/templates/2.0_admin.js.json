@@ -4078,5 +4078,325 @@
   "defaultLangError": {
     "message": "机构默认语言标题不能为空！",
     "description": "2.0 admin.js"
+  },
+  "educationUniversity.educationUniversity": {
+    "message": "成员申请",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.name": {
+    "message": "院校名",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.enName": {
+    "message": "英语院校名",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.region": {
+    "message": "国家/地区",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPerson": {
+    "message": "联系人",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.connectPhone": {
+    "message": "联系电话",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.mail": {
+    "message": "邮箱",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.regiseterTime": {
+    "message": "申请时间",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detail": {
+    "message": "查看详情",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.search": {
+    "message": "输入院校名搜索",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.detailTitle": {
+    "message": "成员申请信息详情",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.back": {
+    "message": "< 返回",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logo": {
+    "message": "机构LOGO",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.logoPreview": {
+    "message": "LOGO预览",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.orgName": {
+    "message": "机构名称",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.englishOrgName": {
+    "message": "英文机构名称",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.foundingYear": {
+    "message": "创立年份",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityAddress": {
+    "message": "大学地址",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.contactPerson": {
+    "message": "联系人",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityWebsite": {
+    "message": "大学网站",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.phoneNumber": {
+    "message": "电话号码",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.email": {
+    "message": "电子邮箱",
+    "description": "2.0 admin.js"
+  },
+  "educationUniversity.universityIntro": {
+    "message": "大学简介/学院简介",
+    "description": "2.0 admin.js"
+  },
+  "website.title": {
+    "message": "多语言设置",
+    "description": "2.0 admin.js"
+  },
+  "website.title2": {
+    "message": "网站名称多语言设置",
+    "description": "2.0 admin.js"
+  },
+  "website.placeholder": {
+    "message": "请输入{lang}语言",
+    "description": "2.0 admin.js"
+  },
+  "website.error": {
+    "message": "默认语言的值不能为空",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourceLibraryName": {
+    "message": "资源名称",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sharePeple": {
+    "message": "创建人",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyPeple": {
+    "message": "复制人",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.nowLookFile": {
+    "message": "  ·当前查看文件夹",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.org": {
+    "message": "所属机构",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.type": {
+    "message": "类型",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.size": {
+    "message": "大小",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.createTime": {
+    "message": "创建时间",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allType": {
+    "message": "文件夹",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status0": {
+    "message": "压缩包",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status1": {
+    "message": "其他",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status2": {
+    "message": "HTML",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status3": {
+    "message": "虚仿资源",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.status4": {
+    "message": "链接",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.warningTip": {
+    "message": "删除后无法恢复，是否删除",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.sord": {
+    "message": "排序方式：",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.rz": {
+    "message": "操作日志",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.search": {
+    "message": "请输入创建人或文件名筛选",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.resourseLib": {
+    "message": "资源库",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.share": {
+    "message": "共享",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.upload": {
+    "message": "上传", 
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheType": {
+    "message": "全部类型",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.allTheUploadType": {
+    "message": "全部上传状态",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.copyShareRecords": {
+    "message": "复制和分享记录",
+    "description": "2.0 admin.js"
+  },
+  "resourceLibraryCtrl.publishRecords": {
+    "message": "资源发布记录",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.otherSetting": {
+    "message": "其他设置",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byEmail": {
+    "message": "通过邮件",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.byAccount": {
+    "message": "通过账号",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla1": {
+    "message": "请输入输入用户邮箱，多个用户使用逗号隔开",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pla2": {
+    "message": "请从已有账号选择需要修改密码的用户",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl3": {
+    "message": "请输入重置后默认密码",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.pl4": {
+    "message": "请输入用户名称或邮箱",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectByHaveAcc": {
+    "message": "从已有账号选择",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.updataPassword": {
+    "message": "重置后默认密码",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.bachUpataPassword": {
+    "message": "批量重置密码",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectUser": {
+    "message": "选择用户",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.haveSelect": {
+    "message": "已选中:{num}",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip1": {
+    "message": "请至少选择一种方式设置需要修改密码的用户",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.tip2": {
+    "message": "修改成功{successCount}个,修改失败{failCount}个",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.selectAll": {
+    "message": "本页全选",
+    "description": "2.0 admin.js"
+  },
+  "otherSetting.clearAll": {
+    "message": "本页清除",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteResource": {
+    "message": "仅删除资源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteCourseResource": {
+    "message": "删除发布到课程的资源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteLibraryResource": {
+    "message": "删除复制到资源库的资源",
+    "description": "2.0 admin.js"
+  },
+  "deleteType.deleteAllResource": {
+    "message": "发布/复制都删除",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.title": {
+    "message": "选择课程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.tip": {
+    "message": "请选择要把资源发布到哪些课程：",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectAll": {
+    "message": "全选",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishSuccess": {
+    "message": "发布成功",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.publishFail": {
+    "message": "发布失败",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.noCourse": {
+    "message": "还没有课程，请先创建课程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.selectCourseFirst": {
+    "message": "请先选择课程",
+    "description": "2.0 admin.js"
+  },
+  "selectCourse.delFailed": {
+    "message": "删除失败",
+    "description": "2.0 admin.js"
   }
 }

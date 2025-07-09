@@ -2040,11 +2040,11 @@
     "description": "smart-classroom 项目"
   },
   "loginCode.msg2": {
-    "message": "优学院2.0APP",
+    "message": "优学院APP",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg4": {
-    "message": "请在优学院2.0APP上确认登录",
+    "message": "请在优学院APP上确认登录",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg5": {
@@ -2056,7 +2056,7 @@
     "description": "smart-classroom 项目"
   },
   "loginCode.msg7": {
-    "message": "请先升级“优学院2.0APP”至最新版，登录后在右上角点击扫一扫",
+    "message": "请先升级“优学院APP”至最新版，登录后在右上角点击扫一扫",
     "description": "smart-classroom 项目"
   },
   "loginCode.msg8": {
@@ -3848,7 +3848,7 @@
     "description": "smart-classroom 项目"
   },
   "loginCode.msg3": {
-    "message": "打开“优学院2.0APP”后右上角点击扫一扫",
+    "message": "打开“优学院APP”后右上角点击扫一扫",
     "description": "smart-classroom 项目"
   },
   "candidates.studentid": {
@@ -4229,6 +4229,74 @@
   },
   "remote.msg12": {
     "message": "确定进入该课堂？",
+    "description": "smart-classroom 项目"
+  },
+  "classroom.publish": {
+    "message": "发布",
+    "description": "smart-classroom 项目"
+  },
+  "classroom.publishTo": {
+    "message": "发布到",
+    "description": "smart-classroom 项目"
+  },
+  "classroom.shotPreview": {
+    "message": "截图预览",
+    "description": "smart-classroom 项目"
+  },
+  "discuss.switchActivities": {
+    "message": "切换活动",
+    "description": "smart-classroom 项目"
+  },
+  "student.answerRight": {
+    "message": "答对",
+    "description": "smart-classroom 项目"
+  },
+  "answerSheet.questionType1": {
+    "message": "题目类型",
+    "description": "smart-classroom 项目"
+  },
+  "welinkLive.timedOutReauthorize": {
+    "message": "已超时，请重新授权",
+    "description": "smart-classroom 项目"
+  },
+  "deviceActivation.groupNumberCorresponding": {
+    "message": "请选择当前设备对应的小组序号",
+    "description": "smart-classroom 项目"
+  },
+  "common.selectClass": {
+    "message": "选择班级",
+    "description": "smart-classroom 项目"
+  },
+  "common.selectActivity": {
+    "message": "选择活动",
+    "description": "smart-classroom 项目"
+  },
+  "classroom.classIntegral": {
+    "message": "课堂积分榜",
+    "description": "smart-classroom 项目"
+  },
+  "classroom.exportDataBeing": {
+    "message": "正在导出数据...",
+    "description": "smart-classroom 项目"
+  },
+  "classroom.exportData": {
+    "message": "导出数据",
+    "description": "smart-classroom 项目"
+  },
+  "classroom.noCourseTip": {
+    "message": "你还没有课程，请先创建课程",
+    "description": "smart-classroom 项目"
+  },
+  "classroom.toCreate": {
+    "message": "去创建",
+    "description": "smart-classroom 项目"
+  },
+  "classroom.plsCreateClassroom": {
+    "message": "请创建课堂",
+    "description": "smart-classroom 项目"
+  },
+  "integrating.classroomAllTotalScore": {
+    "message": "课堂总积分",
     "description": "smart-classroom 项目"
   }
 }

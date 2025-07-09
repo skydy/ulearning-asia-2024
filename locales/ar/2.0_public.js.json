@@ -2515,6 +2515,10 @@
     "message": "يجب أن تتكون كلمة المرور من 8-16 حرفا وتشمل كل من الحروف والأرقام (كلمات المرور حساسة لحالة الأحرف)",
     "description": "2.0 public.js"
   },
+  "loginTipsMsg5": {
+    "message": "لم يتم تحديث كلمة مرور تسجيل الدخول الخاصة بك منذ <strong class='text-red'>{dayNum}</strong> يوما! ",
+    "description": "2.0 public.js"
+  },
   "someonesEportfolio": {
     "message": " ",
     "description": "2.0 public.js"
@@ -2559,6 +2563,10 @@
     "message": "المحاكاة",
     "description": "2.0 public.js"
   },
+  "userInfoTips31": {
+    "message": "كلمة السر يمكن أن تدعم فقط الحروف والأرقام والرموز الخاصة ( الرموز الخاصة في طريقة إدخال اللغة الإنجليزية ) @ $ ^ - + = { } ] ؛ / < ؟",
+    "description": "2.0 public.js"
+  },
   "backToManageCenter": {
     "message": "العودة إلى مركز الإدارة",
     "description": "2.0 public.js"
@@ -2569,6 +2577,18 @@
   },
   "joinCourseFailure": {
     "message": "فشل في الانضمام إلى الدورة التدريبية",
+    "description": "2.0 public.js"
+  },
+  "AiWorkbench": {
+    "message": "منضدة",
+    "description": "2.0 public.js"
+  },
+  "notOpen": {
+    "message": "لا تفتح",
+    "description": "2.0 public.js"
+  },
+  "AIIframeLoading": {
+    "message": "تحميل الرجاء الانتظار . . .",
     "description": "2.0 public.js"
   }
 }
